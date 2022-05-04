@@ -1,4 +1,4 @@
-﻿strain,non Coding,protein Coding,pseudogene,total,galaxy data no.,geolocation name,host,owner name,submitter,contig L50,contig N50,gc Count,number Of Component Sequences,number Of Contigs,number Of Scaffolds,scaffold L50,scaffold N50,total Number Of Chromosomes,total Sequence Length,total Ungapped Length,organism Name,taxId
+﻿strains,non Coding,protein Coding,pseudogene,total,galaxy data no.,geolocation name,host,owner name,submitter,contig L50,contig N50,gc Count,number Of Component Sequences,number Of Contigs,number Of Scaffolds,scaffold L50,scaffold N50,total Number Of Chromosomes,total Sequence Length,total Ungapped Length,organism Name,taxId
 1021,71,6233,1,6528,41,,,EBI,MELILO,1,3654135,4160497,3,3,3,1,3654135,3,6691694,6691694,Sinorhizobium meliloti 1021,266834
 AK83,69,6537,348,6954,69,,,"Joint Genome Institute, U.S. Department of Energy",US DOE Joint Genome Institute (JGI-PGF),1,3820344,4421330,5,5,5,1,3820344,5,7140471,7140471,Sinorhizobium meliloti AK83,693982
 SM11,69,6595,308,6972,70,,,NCBI,"CeBiTec, Bielefeld University",1,3908022,4450273,3,3,3,1,3908022,3,7173736,7173736,Sinorhizobium meliloti SM11,707241
